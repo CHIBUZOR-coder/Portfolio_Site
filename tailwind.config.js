@@ -6,9 +6,9 @@ module.exports = {
       height: {
         big_h: "20rem",
         ppa: "100vh",
-        more:"30rem",
-        less:"20rem",
-        sec4:"130vh"
+        more: "30rem",
+        less: "20rem",
+        sec4: "130vh",
       },
       top: {
         new: "50px",
@@ -20,6 +20,7 @@ module.exports = {
       },
       width: {
         fat: "500px",
+        fat2: "350px",
       },
       backgroundColor: {
         nav: " rgba(24, 22, 22, 0.9)  ",

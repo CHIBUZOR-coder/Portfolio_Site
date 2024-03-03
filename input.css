@@ -110,7 +110,7 @@ section {
     /* background-color: rgb(45, 46, 43); */
     position: relative;
     width: 80%;
-    min-height: 160vh;
+    min-height: 142vh;
     display: none;
     transform: translateY(0) scale(1);
     flex-direction: column;
