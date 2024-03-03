@@ -409,7 +409,7 @@ section {
         }
 
         .bg-text {
-            
+
             position: absolute;
             width: 70%;
             top: 50%;
@@ -849,7 +849,8 @@ section {
     justify-content: space-between;
     width: 80%;
 
-    margin: 0 auto 30px auto;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 50px;
     transition: all 0.4s ease-in-out;
 
@@ -974,7 +975,7 @@ section {
 }
 
 .headline {
-    @apply font-bold w-44 md:w-48 
+    @apply font-bold w-44 md:w-48
 }
 
 .blog {
@@ -1165,5 +1166,9 @@ textarea {
 
     .sec4 {
         width: 100% !important;
+    }
+
+    .blog-container {
+        margin:50px auto 100px auto;
     }
 }
