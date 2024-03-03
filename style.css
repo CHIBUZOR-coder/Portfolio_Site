@@ -2703,7 +2703,7 @@ section {
 /* styling header */
 
 .mge {
-  background: url(images/zoe.jpg) no-repeat center center/ cover;
+  background: url(./images/zoe.jpg) no-repeat center center/ cover;
   position: relative;
   width: 200px;
   height: 200px;
