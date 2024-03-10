@@ -2581,7 +2581,7 @@ section {
   display: none;
   transform: translateY(0) scale(1);
   width: 80% !important;
-  min-height: 110vh;
+  min-height: 120vh;
   /* background-color: blue; */
   margin: 0 auto 0 auto;
   position: relative;
@@ -3543,6 +3543,7 @@ textarea {
 
   .sec4 {
     width: 100% !important;
+    min-height: 140vh;
   }
 
   .blog-container {
