@@ -110,7 +110,7 @@ section {
     /* background-color: rgb(45, 46, 43); */
     position: relative;
     width: 80%;
-    min-height: 142vh;
+    min-height: 142vh !important;
     display: none;
     transform: translateY(0) scale(1);
     flex-direction: column;
@@ -815,6 +815,14 @@ section {
     .school {
         background: url(images/studyy.jpg) no-repeat center center/ cover;
     }
+
+    .Portfolio1 {
+        background: url(images/young-man-with-hoodie_23-2147646522.jpg) no-repeat center center/ cover;
+    }
+
+    .Portfolio2 {
+        background: url(images/girl3.jpg) no-repeat center center/ cover;
+    }
 }
 
 .below {
@@ -1157,13 +1165,14 @@ textarea {
     .sec1 {
         min-height: 80vh;
     }
-    .sec3{
-        min-height: 140vh !important;
+
+    .sec3 {
+        min-height: 150vh !important;
     }
 
     .portfolio-container {
         width: 70%;
-        
+
     }
 
     .controlls {
@@ -1180,6 +1189,12 @@ textarea {
         width: 100% !important;
         min-height: 140vh;
     }
+
+
+        .sec3 {
+          
+            min-height: 160vh !important;
+        }
 
     .blog-container {
         margin: 50px auto 100px auto;
